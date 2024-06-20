@@ -3,7 +3,7 @@ package com.sqli.isc.iut.courses.cucumber;
 import io.cucumber.junit.platform.engine.Cucumber;
 
 @Cucumber
-public class CucumberTest {
+public class BarTest {
 	
     // See:
     // https://github.com/cucumber/cucumber-jvm/issues/1149
